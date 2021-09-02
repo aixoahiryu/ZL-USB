@@ -1,0 +1,165 @@
+{
+  "version": "20",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-en-us",
+          "title": "Booking.com",
+          "description": "hotels, booking, apartments"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": "video"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon",
+          "title": "Amazon",
+          "description": "shopping, electronics"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-en-us",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "walmart",
+          "url": "https://vivaldi.com/bk/walmart-pc",
+          "title": "Walmart",
+          "description": "shopping"
+        },
+        {
+          "name": "overstock",
+          "url": "https://vivaldi.com/bk/overstock-us-bk",
+          "title": "Overstock",
+          "description": "shopping"
+        },
+        {
+          "name": "hotelscom",
+          "url": "https://vivaldi.com/bk/hotelscom-en-us",
+          "title": "Hotels.com",
+          "description": "travelling"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-us",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "disney",
+          "url": "https://vivaldi.com/bk/sd-disney-en-us",
+          "title": "Disney+"
+        },
+        {
+          "name": "expedia",
+          "url": "http://vivaldi.com/bk/expedia",
+          "title": "Expedia",
+          "description": "travelling"
+        },
+        {
+          "name": "startpage",
+          "url": "https://vivaldi.com/bk/sd-startpage-en-us",
+          "title": "Startpage",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community",
+              "title": "Vivaldi Community",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-help",
+              "url": "https://vivaldi.com/bk/sd-vivaldi-help-en",
+              "title": "Vivaldi Help"
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "macys",
+          "url": "https://vivaldi.com/bk/macys-en-us-bk",
+          "title": "Macy's",
+          "description": "shopping"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-us-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-us-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-us-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-us-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "target",
+          "url": "https://vivaldi.com/bk/target-us",
+          "title": "Target",
+          "description": "shopping"
+        },
+        {
+          "name": "instacart",
+          "url": "https://vivaldi.com/bk/sd-instacart-en-us",
+          "title": "Instacart"
+        },
+        {
+          "name": "rakuten",
+          "url": "https://vivaldi.com/bk/rakuten-us-bk",
+          "title": "Rakuten"
+        },
+        {
+          "name": "hulu",
+          "url": "https://vivaldi.com/bk/hulu",
+          "title": "Hulu"
+        }
+      ]
+    }
+  ]
+}

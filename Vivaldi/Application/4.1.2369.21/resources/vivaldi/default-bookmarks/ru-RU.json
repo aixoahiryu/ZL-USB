@@ -1,0 +1,104 @@
+{
+  "version": "21",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "yandex",
+          "url": "https://vivaldi.com/bk/yandex-ru",
+          "title": "Яндекс",
+          "description": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "vk.com",
+          "url": "https://vk.com/",
+          "title": "ВКонтакте",
+          "description": "Общение, социальная сеть"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-ru",
+          "title": "Booking.com",
+          "description": "путешествия, отели, бронирование"
+        },
+        {
+          "name": "yandex-market",
+          "url": "https://vivaldi.com/bk/yandex-market",
+          "title": "Я.Маркет",
+          "description": ""
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom",
+          "title": "AliExpress"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-ru",
+              "title": "Функции Vivaldi",
+              "description": "Vivaldi, браузер"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-ru",
+              "title": "Сообщество Vivaldi",
+              "description": "Vivaldi, браузер, портал, сообщество"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "habr.ru",
+              "url": "https://vivaldi.com/bk/habr-ru",
+              "title": "Хабр",
+              "description": "Блог, IT, информационные технологии, программирование"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-ru-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "beru.ru",
+          "url": "https://vivaldi.com/bk/beru-ru-bk",
+          "title": "Беру"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-ru-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "mail.ru",
+          "url": "https://vivaldi.com/bk/mail-ru-bk/",
+          "title": "Mail.ru"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,98 @@
+{
+  "version": "15",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "mbl.is",
+          "url": "https://www.mbl.is/frettir/",
+          "title": "Fréttir - mbl.is",
+          "description": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-is",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "startpage",
+          "url": "https://vivaldi.com/bk/sd-startpage-is-is",
+          "title": "Startpage",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-is",
+              "title": "Eiginleikar Vivaldi",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-is",
+              "title": "Vivaldi samfélagið",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "booking.com",
+              "url": "https://vivaldi.com/bk/bookingcom-is",
+              "title": "Booking.com",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-is-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-is-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-is-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-is-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

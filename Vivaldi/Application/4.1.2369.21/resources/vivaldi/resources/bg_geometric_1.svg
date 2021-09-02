@@ -1,0 +1,23 @@
+<svg width="1920" height="1080" viewBox="0 0 1920 1080" fill="none" xmlns="http://www.w3.org/2000/svg">
+<g clip-path="url(#clip0)">
+<rect width="1920" height="1080" fill="#7F5FEC"/>
+<rect x="1865.41" y="-287.611" width="741.999" height="2338.07" transform="rotate(30 1865.41 -287.611)" fill="#7FD7FB"/>
+<rect x="1150.87" y="-533.993" width="741.999" height="2050.28" transform="rotate(30 1150.87 -533.993)" fill="#6C4CD8"/>
+<rect x="1783.62" y="-168.677" width="11.3659" height="2050.28" transform="rotate(30 1783.62 -168.677)" fill="url(#paint0_linear)"/>
+<rect x="574.372" y="-1009.46" width="741.999" height="2314.64" transform="rotate(30 574.372 -1009.46)" fill="#7F5FEC"/>
+<rect x="1207.46" y="-643.948" width="10.9674" height="2314.64" transform="rotate(30 1207.46 -643.948)" fill="url(#paint1_linear)"/>
+</g>
+<defs>
+<linearGradient id="paint0_linear" x1="1789.3" y1="-168.677" x2="1789.3" y2="1881.6" gradientUnits="userSpaceOnUse">
+<stop offset="0.0724446" stop-color="#5F43BE"/>
+<stop offset="0.724673" stop-color="#6C4CD8"/>
+</linearGradient>
+<linearGradient id="paint1_linear" x1="1212.95" y1="-643.948" x2="1212.95" y2="1670.69" gradientUnits="userSpaceOnUse">
+<stop offset="0.312543" stop-color="#6245C7"/>
+<stop offset="0.861643" stop-color="#7F5FEC"/>
+</linearGradient>
+<clipPath id="clip0">
+<rect width="1920" height="1080" fill="white"/>
+</clipPath>
+</defs>
+</svg>

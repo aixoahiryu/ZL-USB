@@ -1,0 +1,19 @@
+{
+  "flags": {
+    "double_click_menu": {
+      "friendly_name": "Show context menu on a double click",
+      "description": "Use a double click anywhere in the page to show its context menu. Requires a restart of Vivaldi to be active.",
+      "internal_value": true
+    },
+    "css_mods": {
+      "friendly_name": "Allow for using CSS modifications.",
+      "description": "Allow for CSS modifications set in appearance in settings.",
+      "internal_value": false
+    },
+    "install_pwa": {
+      "friendly_name": "Menu entries for installing Progressive Web Apps.",
+      "description": "Enables menu entries to do installation of Progressive Web Apps.",
+      "internal_value": true
+    }
+  }
+}

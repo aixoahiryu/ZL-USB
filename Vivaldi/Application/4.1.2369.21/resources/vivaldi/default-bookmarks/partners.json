@@ -1,0 +1,621 @@
+{
+  "folders": [
+    {
+      "name": "Bookmarks",
+      "guid": "12c04539-d01e-4fd3-9fbf-aa09a91e91ba"
+    },
+    {
+      "name": "SpeedDial",
+      "title": "Speed Dial",
+      "speeddial": true,
+      "guid": "44641543-f123-438f-bc5c-8da7bb7c6819"
+    },
+    {
+      "name": "Vivaldi",
+      "guid": "04f107b7-203e-49e6-ab97-d6b9e613cc4a"
+    }
+  ],
+  "bookmarks": [
+    {
+      "name": "21vek.by",
+      "guid": "474f9645-73ca-462f-8393-8d0e6d8631d4",
+      "guid2": "d716b3b2-703b-4edf-b156-7c747ba1a503"
+    },
+    {
+      "name": "24h.com.vn",
+      "thumbnail": "/resources/sd_vi_24hnews.png",
+      "guid": "ac7da778-0180-498e-9628-2fe2c280f85e",
+      "guid2": "026530ba-4223-4d03-9b0f-94079f4e5072"
+    },
+    {
+      "name": "7net-jp",
+      "thumbnail": "/resources/sd_7net.png",
+      "guid": "333d7ab0-8675-465d-a3eb-abbfb62c7e4d",
+      "guid2": "22b68b7c-f762-4adb-a0ed-a48b4222d153"
+    },
+    {
+      "name": "accuweather",
+      "thumbnail": "/resources/sd_accuweather.png",
+      "guid": "4e1fc0cf-08f4-40d9-acc9-dc79ea44cf82",
+      "guid2": "352f906e-6229-423f-9c24-8dd1130ed705"
+    },
+    {
+      "name": "agoda",
+      "thumbnail": "/resources/sd_en_in_agoda.png",
+      "guid": "526ba3c2-a33f-42e0-9e6d-1c676c5f3532",
+      "guid2": "8a33e853-7e43-44e4-89b1-5f0575d5f784"
+    },
+    {
+      "name": "airbnb",
+      "thumbnail": "/resources/sd_airbnb.png",
+      "guid": "719c6802-36cf-40c9-b931-f9ab386db081",
+      "guid2": "095ac6b6-af9f-43e3-a181-b76f286b99ea"
+    },
+    {
+      "name": "aliexpress",
+      "thumbnail": "/resources/sd_aliexpress.png",
+      "guid": "0efbb5fb-d366-4a91-95b1-b5690a0cf0ef",
+      "guid2": "f79cd6e8-ebc0-444d-ac96-00da456dcb59"
+    },
+    {
+      "name": "allegro",
+      "thumbnail": "/resources/sd_pl_allegro.png",
+      "guid": "4d533dbe-a171-47e8-88da-327cd03db236",
+      "guid2": "588c7a08-a4fd-4a6e-be75-891ffa0bd110"
+    },
+    {
+      "name": "amazon",
+      "thumbnail": "/resources/sd_amazon.png",
+      "guid": "c49a405e-ba3d-42b4-ad9a-4831e2ed35e4",
+      "guid2": "4ac3d5a6-bbdd-4b1d-92a1-eaea6df81e84"
+    },
+    {
+      "name": "americanas",
+      "thumbnail": "/resources/sd_br_americanas.png",
+      "guid": "6058d327-246a-448e-a60c-858af353930e",
+      "guid2": "688c70ff-a921-4f6f-823a-a3cda2218cf2"
+    },
+    {
+      "name": "berlingske",
+      "guid": "c88fe4c4-7a75-444e-b75e-c68c2c73c676",
+      "guid2": "3b209e0b-2535-4524-9f81-30eb3e476176"
+    },
+    {
+      "name": "beru.ru",
+      "guid": "2f623ef9-3bac-4a3e-85ae-dedd953cb66c",
+      "guid2": "e0307500-2b4f-4e2b-b67d-c9d30aa4582b"
+    },
+    {
+      "name": "bestbuy",
+      "thumbnail": "/resources/sd_bestbuy.png",
+      "guid": "5ff5b9a8-0995-4a99-b381-9860ec9e4880",
+      "guid2": "34e061e1-72ae-42a1-8a42-edf9f497f354"
+    },
+    {
+      "name": "bild.de",
+      "thumbnail": "/resources/sd_de_bild.png",
+      "guid": "1b918d69-995a-4bf7-aab5-22094b3ef41b",
+      "guid2": "0824692a-4178-40ce-967e-f5d740f3422c"
+    },
+    {
+      "name": "biobiochile.cl",
+      "thumbnail": "/resources/sd_es_cl_biobio.png",
+      "guid": "5f7d2967-10cf-4cdf-8f4b-d5cefff43bd5",
+      "guid2": "545cc83a-da73-4de4-a9b0-4775d49005d6"
+    },
+    {
+      "name": "blick.ch",
+      "thumbnail": "/resources/sd_ch_blick.png",
+      "guid": "9a5515f6-6f5d-48fe-ad9d-887b954da784",
+      "guid2": "ce76a841-ff84-421b-ad87-6c69cb34a866"
+    },
+    {
+      "name": "blocket.se",
+      "thumbnail": "/resources/sd_sv_blocket.png",
+      "guid": "a77d392f-2834-40d6-9ee8-d32d3e55549d",
+      "guid2": "5e15e5d9-5e7c-4e3b-b88d-922c45d00360"
+    },
+    {
+      "name": "booking.com",
+      "thumbnail": "/resources/sd_booking.com.png",
+      "guid": "68fc9516-59ac-447e-a8a6-ff27d558da91",
+      "guid2": "f56c1a38-3e9e-48fc-8d6c-b800f226dbfb"
+    },
+    {
+      "name": "bt.dk",
+      "thumbnail": "/resources/sd_dk_bt.png",
+      "guid": "55f96496-ffcf-4b5d-8bc4-d7e7eedbcdfc",
+      "guid2": "c1528ce2-1d1e-4dfd-b288-d649f2f1c7a3"
+    },
+    {
+      "name": "carrefour",
+      "thumbnail": "/resources/sd_fr_carrefour.png",
+      "guid": "dc52f1d1-165c-4153-b0c2-36fa5fac9b81",
+      "guid2": "fd554248-aea7-42f0-8651-5eef40b7c993"
+    },
+    {
+      "name": "cdiscount",
+      "thumbnail": "/resources/sd_fr_cdiscount.png",
+      "guid": "a43edbc7-647d-49ab-a44d-26f02aaa2324",
+      "guid2": "ded83913-5177-44b4-8176-719ed733fd5d"
+    },
+    {
+      "name": "cdon.no",
+      "thumbnail": "/resources/sd_no_cdon.png",
+      "guid": "573fa0bd-90c5-4d5e-af5d-29ca4ae97251",
+      "guid2": "57e11b64-36de-4ec1-9bb4-92034b81cd76"
+    },
+    {
+      "name": "detik.com",
+      "thumbnail": "/resources/sd_id_detik.png",
+      "guid": "dbd913a0-41a2-417c-9169-9f9e8da1bfb1",
+      "guid2": "9c819f59-9066-47bf-89f1-57c51b7edd5a"
+    },
+    {
+      "name": "disney",
+      "thumbnail": "/resources/sd_disneyplus.png",
+      "guid": "77db4bb8-74e9-429b-98cd-895a813ea2a9",
+      "guid2": "94c5d28f-0e2d-47d2-94d9-c7d4e5a00560"
+    },
+    {
+      "name": "dn.se",
+      "thumbnail": "/resources/sd_sv_dn.png",
+      "guid": "b3383b92-292c-4fd7-8958-c916a49889b6",
+      "guid2": "0ac49657-ad73-44fa-9dc5-5bec009a145d"
+    },
+    {
+      "name": "ebay",
+      "thumbnail": "/resources/sd_ebay.png",
+      "guid": "44d32981-5dcf-4a1f-be5b-3c0d03c7a0a1",
+      "guid2": "930d9804-4a0f-45ee-9317-b78ed2b548fd"
+    },
+    {
+      "name": "elcorte",
+      "guid": "d8c64f16-359b-4562-97f6-c968125b09cc",
+      "guid2": "d6d0f53a-3df7-4e89-b24c-b57c5cbcf356"
+    },
+    {
+      "name": "elmundo.es",
+      "thumbnail": "/resources/sd_es_elmundo.png",
+      "guid": "55487f5c-c1b7-4477-8fc0-09f88e85789b",
+      "guid2": "8083af0f-293b-42ee-b7f4-b8fb5ed0c61e"
+    },
+    {
+      "name": "eluniversal.com.mx",
+      "thumbnail": "/resources/sd_es_mx_eluniversal.png",
+      "guid": "8aa8833c-6c9f-4442-b504-8b848df6a244",
+      "guid2": "2f02607f-ced0-4c5c-9ca2-2387836fd9dc"
+    },
+    {
+      "name": "expedia",
+      "thumbnail": "/resources/sd_expedia.png",
+      "guid": "53e74366-122a-4ec9-a75c-c6d395dc1284",
+      "guid2": "7e159573-093a-45aa-8822-e86f7f25a545"
+    },
+    {
+      "name": "expedia-jp",
+      "thumbnail": "/resources/sd_expedia.png",
+      "guid": "f69f4f13-15eb-4bea-b2c6-2cc84b180bc5",
+      "guid2": "4833e512-12e8-428b-a65a-40a5747b6eb8"
+    },
+    {
+      "name": "finn.no",
+      "thumbnail": "/resources/sd_nb_finn.png",
+      "guid": "f617af7f-0771-4710-b576-bfe9a7601c5f",
+      "guid2": "795f9870-ede4-4f05-9594-6a0114cbc560"
+    },
+    {
+      "name": "fnac",
+      "thumbnail": "/resources/sd_fr_fnac.png",
+      "guid": "1b95b406-5515-480a-906c-865d12efd3a9",
+      "guid2": "f0d34975-d9c5-4158-8a1a-9732a9520308"
+    },
+    {
+      "name": "habr.ru",
+      "thumbnail": "/resources/sd_habr.png",
+      "guid": "141663a9-c661-4478-9199-dcb1b241b1f4",
+      "guid2": "e8383383-d1d0-4978-b0e0-ef4ce2d19303"
+    },
+    {
+      "name": "hbo-spain",
+      "thumbnail": "/resources/sd_es_hbo.png",
+      "guid": "83179bdd-cf60-48b1-8ea0-7bed5e69a375",
+      "guid2": "a9da3b56-d551-4ffe-9352-c60f5dae3607"
+    },
+    {
+      "name": "hk01.com",
+      "thumbnail": "/resources/sd_hk_hk01.png",
+      "guid": "da135b0a-ff5b-4cb3-9024-e8f4f99b12f1",
+      "guid2": "fd95cc9c-d617-4b97-98ce-4eb12c9081e7"
+    },
+    {
+      "name": "homedepot",
+      "thumbnail": "/resources/sd_homedepot.png",
+      "guid": "c0f2e6cc-ebba-45c0-9e7e-47480ce92b30",
+      "guid2": "3b33252d-e8ce-45c1-9469-65e57e109b92"
+    },
+    {
+      "name": "hotelscom",
+      "thumbnail": "/resources/sd_hotelscom.png",
+      "guid": "ba6d8580-e93e-4f5a-b0c6-c23e24a34183",
+      "guid2": "675b76f8-3fb3-4ce5-8acb-f70c45856942"
+    },
+    {
+      "name": "hulu",
+      "thumbnail": "/resources/sd_hulu.png",
+      "guid": "5a6f4c58-535c-46d7-ada4-9d2d35074a41",
+      "guid2": "9bed7c4c-c99e-4843-9da4-5a40dc567c82"
+    },
+    {
+      "name": "hulu-jp",
+      "thumbnail": "/resources/sd_hulu.png",
+      "guid": "27b752c7-74df-48ac-9bbb-f5c9b10d5d2e",
+      "guid2": "b627063d-1d31-40ea-85b5-82d4732e2a32"
+    },
+    {
+      "name": "hurriyet.com.tr",
+      "thumbnail": "/resources/sd_tr_hurriyet.png",
+      "guid": "8c3a7a4c-f617-4fa2-a7be-825f0e2ddf84",
+      "guid2": "279e4cbf-0a26-4440-a814-c7136fbfdc20"
+    },
+    {
+      "name": "idealo",
+      "thumbnail": "/resources/sd_de_idealo.png",
+      "guid": "f2aa47f0-dad6-47a7-a2be-b910c3b284bc",
+      "guid2": "b66fb867-9809-487b-82e1-8d2b4010b733"
+    },
+    {
+      "name": "independent.ie",
+      "thumbnail": "/resources/sd_ie_independent.png",
+      "guid": "7709e0c0-bdc8-4d37-887a-be30a77fc7e0",
+      "guid2": "661e6d82-3089-451d-abce-e941c70f0a4d"
+    },
+    {
+      "name": "infobae.com",
+      "thumbnail": "/resources/sd_es_ar_infobae.png",
+      "guid": "c5944118-5ac2-45b5-9383-ca81f6cc7617",
+      "guid2": "7684c12d-3221-43e2-b1d2-fec4b694f359"
+    },
+    {
+      "name": "instacart",
+      "thumbnail": "/resources/sd_instacart.png",
+      "guid": "60ef8285-7335-4b6b-9b52-78c525b4dc3b",
+      "guid2": "82853ad9-4212-452c-bb3b-541d154b2f73"
+    },
+    {
+      "name": "justeat",
+      "guid": "3aa24812-b3c8-4a47-8015-ec69b8ddbf35",
+      "guid2": "e60ea89f-e3bc-4ecc-bab7-00403c6f477f"
+    },
+    {
+      "name": "krone.at",
+      "thumbnail": "/resources/sd_at_kronen_zeitung.png",
+      "guid": "0d26b775-a68f-4feb-81e0-ea2640d1e198",
+      "guid2": "26fbe9ef-73e5-4e48-b491-31cd822951a8"
+    },
+    {
+      "name": "lamoda",
+      "guid": "df67c17e-61a4-476f-b42f-e2522831aabc",
+      "guid2": "e9478de1-dc90-4a93-b840-1e84f5b3dd6a"
+    },
+    {
+      "name": "larepublica.pe",
+      "thumbnail": "/resources/sd_es_pe_la_republica.png",
+      "guid": "02a34e2d-0a31-4c53-a564-c1cd37a1ebea",
+      "guid2": "f5ae8493-782d-43b4-a0c6-d42c30b0bf8c"
+    },
+    {
+      "name": "lefigaro.fr",
+      "thumbnail": "/resources/sd_fr_lefigaro.png",
+      "guid": "60f1da3b-bc18-408f-9849-08b1c267a465",
+      "guid2": "1413ca3c-d3eb-41de-95fc-b952ff7752fb"
+    },
+    {
+      "name": "libero.it",
+      "thumbnail": "/resources/sd_it_libero.png",
+      "guid": "d208a58c-97c3-4ead-b5c7-f4307a65386f",
+      "guid2": "54f5791f-b1f0-44f2-b1d8-b804c4c30eea"
+    },
+    {
+      "name": "lidl",
+      "thumbnail": "/resources/sd_de_lidl.png",
+      "guid": "11e4380a-ceea-45a1-aa59-d9e3159f3574",
+      "guid2": "8d4af2b9-de4c-4e22-9129-824fc9684b01"
+    },
+    {
+      "name": "ltn.com.tw",
+      "thumbnail": "/resources/sd_tw_liberty.png",
+      "guid": "382caace-9253-4258-ae39-3de96d2c28c7",
+      "guid2": "4fac7c5d-97fd-4a97-94bd-03508a93648d"
+    },
+    {
+      "name": "macys",
+      "guid": "9bdcd1b3-67a6-4049-b7fd-13b5178fb484",
+      "guid2": "844923d5-bae9-400f-b260-3e72c919b4c0"
+    },
+    {
+      "name": "mail.ru",
+      "thumbnail": "/resources/sd_ru_mailru.png",
+      "guid": "d431337f-351a-4e41-890f-0797bd833b0b",
+      "guid2": "273d6083-850f-47a7-8912-c4677d6a2ee6"
+    },
+    {
+      "name": "malaysiakini.com",
+      "thumbnail": "/resources/sd_my_malaysiakini.png",
+      "guid": "d66b3aba-3873-4af3-b510-68b285d49c47",
+      "guid2": "242b4fde-9a3e-497a-ac4c-8aac320bd477"
+    },
+    {
+      "name": "mbl.is",
+      "thumbnail": "/resources/sd_is_mbl.png",
+      "guid": "acb27768-4c25-4f71-b97c-6de905b98e75",
+      "guid2": "2c7e8132-8073-4d37-9f61-c5021b4b9907"
+    },
+    {
+      "name": "milanuncios",
+      "guid": "550c64f1-115f-4d15-aa11-a6457e4e68b4",
+      "guid2": "269c499b-b86f-46ad-9c11-c3f008799a0c"
+    },
+    {
+      "name": "morrisons",
+      "thumbnail": "/resources/sd_uk_morrisons.png",
+      "guid": "16631f15-ff0c-4fbf-8d85-927585697379",
+      "guid2": "7b023b65-4a08-43a3-b2a4-666be99bca1a"
+    },
+    {
+      "name": "ndtv.com",
+      "thumbnail": "/resources/sd_in_ndtv.png",
+      "guid": "e1083802-4025-453a-b095-c1139174afb1",
+      "guid2": "cea7643c-03fe-4fd5-9ce7-db5db2ecde1c"
+    },
+    {
+      "name": "news.abs-cbn.com",
+      "thumbnail": "/resources/sd_ph_abs.png",
+      "guid": "2712b26c-1838-464a-9c28-3c261e7ef23d",
+      "guid2": "390318fc-8922-4f62-a59e-302302d14666"
+    },
+    {
+      "name": "news.com.au",
+      "thumbnail": "/resources/sd_news.com.au.png",
+      "guid": "5f8d139e-e334-4d71-a58c-05673104323a",
+      "guid2": "0b514c4e-aa8b-40f4-907b-c50bd4ae2831"
+    },
+    {
+      "name": "nhk.or.jp",
+      "thumbnail": "/resources/sd_ja_nhk.png",
+      "guid": "594a0b85-91b3-4a50-8fe0-e55ca3903b7b",
+      "guid2": "1ba42673-5e53-4c8f-9bd2-247907277f49"
+    },
+    {
+      "name": "onliner.by",
+      "thumbnail": "/resources/sd_by_onliner.png",
+      "guid": "0ec7d3c6-85d6-4662-90be-84fde4754cfa",
+      "guid2": "c3a55042-05a0-40cc-bedb-1fcfdf7842a2"
+    },
+    {
+      "name": "otto",
+      "guid": "913e0807-843f-45e0-a3eb-2a21f149627c",
+      "guid2": "76dac670-9e39-4f0f-a5eb-09610298ac1b"
+    },
+    {
+      "name": "overstock",
+      "thumbnail": "/resources/sd_overstock.png",
+      "guid": "510d0f31-de78-4349-8584-a91d4adb91c6",
+      "guid2": "8fe00cea-a6cd-4581-b01c-265281a681c1"
+    },
+    {
+      "name": "panorama.com.ve",
+      "thumbnail": "/resources/sd_es_ve_panorama.png",
+      "guid": "2b1595ed-f8ca-4370-96ed-df1a0abc6213",
+      "guid2": "5e8ea091-fe88-43c9-b729-bd7360319da9"
+    },
+    {
+      "name": "rakuten",
+      "thumbnail": "/resources/sd_ja_rakuten.png",
+      "guid": "c2757286-3795-48d1-ba42-06bfe5b1a607",
+      "guid2": "2a44b514-79a6-43aa-a493-a19dcbef49ea"
+    },
+    {
+      "name": "recochoku",
+      "thumbnail": "/resources/sd_ja_recochoku.png",
+      "guid": "00630412-9292-4ea6-8f0e-3ae8484c3502",
+      "guid2": "969783e6-89f7-4db4-a64f-4afd4329114b"
+    },
+    {
+      "name": "reddit",
+      "thumbnail": "/resources/sd_reddit6.png",
+      "guid": "7790a09f-383a-4e98-87e6-589095fc01bc",
+      "guid2": "eb472113-8798-404b-90c1-209c68b63274"
+    },
+    {
+      "name": "rozetka",
+      "thumbnail": "/resources/sd_ua_rozetka.png",
+      "guid": "0e9de146-592b-43fd-855f-45bcbe74b774",
+      "guid2": "a7dc3c27-8067-4db8-a302-2d20a260ac12"
+    },
+    {
+      "name": "sahibinden.com",
+      "thumbnail": "/resources/sd_tr_sahibinden.png",
+      "guid": "1b429431-d0f0-48b9-8f77-dcb5ff2564fa",
+      "guid2": "c3c7818e-4749-497c-9971-8478e9facc3a"
+    },
+    {
+      "name": "sapo.pt",
+      "thumbnail": "/resources/sd_pt_sapo.png",
+      "guid": "b4da5b41-3693-49c6-833a-55d21db39647",
+      "guid2": "22364f02-05ff-4271-911a-bb5f8b1c0c0d"
+    },
+    {
+      "name": "setn.com",
+      "thumbnail": "/resources/sd_tw_setn.png",
+      "guid": "cdbd0ba0-8c38-4d0f-b4ff-0d0be3ed13f2",
+      "guid2": "7a891398-47c1-4163-8ed6-b651f7248c8a"
+    },
+    {
+      "name": "shein",
+      "guid": "fe24ca99-93f6-4f51-b73e-2a7f11e5f007",
+      "guid2": "fbdf10c0-4a2f-4ad7-ab30-809abd3d0a9e"
+    },
+    {
+      "name": "startme-en-in",
+      "thumbnail": "/resources/sd_startme.png",
+      "guid": "f545d357-d9a5-49c1-b746-6db3162dfe9c",
+      "guid2": "a8fcf2bb-4bfd-4a44-aecc-a3b382a96b82"
+    },
+    {
+      "name": "startme-es-mx",
+      "thumbnail": "/resources/sd_startme.png",
+      "guid": "3c89e5c2-a8d6-428b-a4fd-d1e4db5bb05c",
+      "guid2": "1f70a626-a43c-44aa-9bad-b59cb5588d8d"
+    },
+    {
+      "name": "startme-pl",
+      "thumbnail": "/resources/sd_startme.png",
+      "guid": "7120adbc-d44e-422f-9a74-70b8aac8bd3f",
+      "guid2": "5e3deaf5-fe32-4ca0-b9ca-56a51b638799"
+    },
+    {
+      "name": "startme-pt-br",
+      "thumbnail": "/resources/sd_startme.png",
+      "guid": "dec50932-2c65-4467-94f3-cfbcbfbd1480",
+      "guid2": "f8b3ad30-438f-4a2b-8b6c-7a142a77fb53"
+    },
+    {
+      "name": "startpage",
+      "thumbnail": "/resources/sd_startpage.png",
+      "guid": "e57fc690-8a8a-4e02-b609-d8d4e1e6bb3d",
+      "guid2": "27eadb26-a11a-4bd6-a220-9cca478e1d03"
+    },
+    {
+      "name": "straitstimes.com",
+      "thumbnail": "/resources/sd_mk_sg_st.png",
+      "guid": "c47125da-793d-4d19-becc-e80b1f9d2ab8",
+      "guid2": "7e394a4c-afc6-4700-992e-e7ac368da0ce"
+    },
+    {
+      "name": "stuff.co.nz",
+      "thumbnail": "/resources/sd_nz_stuff.png",
+      "guid": "eb2772cb-a57b-491c-b88d-49d3fc99095a",
+      "guid2": "1bb838fa-6f78-4069-bef3-ed8ef26fb907"
+    },
+    {
+      "name": "submarino",
+      "guid": "c1296556-5e71-4d6d-b476-77c4771bc5fe",
+      "guid2": "d7515cb0-66c7-4f50-95a9-3bfc76f8dbde"
+    },
+    {
+      "name": "target",
+      "thumbnail": "/resources/sd_target.png",
+      "guid": "77ac1ff9-adc2-4612-aa16-46c0c7893cf2",
+      "guid2": "292cbc31-d911-4f3b-b631-e3c3c8755666"
+    },
+    {
+      "name": "telegraf.com.ua",
+      "thumbnail": "/resources/sd_uk_telegraph.png",
+      "guid": "a10f4113-ce61-4256-9dd0-33a050cdb607",
+      "guid2": "b09e6b6b-7101-47c9-bf29-61e3fb089e6f"
+    },
+    {
+      "name": "theguardian",
+      "thumbnail": "/resources/sd_en_GB_theguardian.png",
+      "guid": "3f49e9e8-69b8-4a10-8016-f69c815a0462",
+      "guid2": "ccfdbeb0-ef80-4168-9901-5dc8d6d758ea"
+    },
+    {
+      "name": "u-next",
+      "thumbnail": "/resources/sd_ja_unext.png",
+      "guid": "2d63c85b-b2ac-4a89-b1b2-9b1e7c78831f",
+      "guid2": "90f3759c-7fcc-48b3-8119-9701b0a14886"
+    },
+    {
+      "name": "vg.no",
+      "thumbnail": "/resources/sd_nb_vg.png",
+      "guid": "e4bc78e1-1a48-4ec9-8357-308226dd392f",
+      "guid2": "194daf4f-417e-4c5e-a528-ad026fc32b6c"
+    },
+    {
+      "name": "vivaldi-community",
+      "thumbnail": "/resources/sd_vivaldi_community.gif",
+      "guid": "4e03018e-a197-4b80-9b6e-55caa5028c64",
+      "guid2": "9a7b8468-6369-4f8d-a231-9190c1185dde"
+    },
+    {
+      "name": "vivaldi-features",
+      "thumbnail": "/resources/sd_vivaldi.png",
+      "guid": "4384d754-0aa9-467f-9066-a2f6443cde7d",
+      "guid2": "a91e4453-0a84-4a58-be63-eb3d7c257c35"
+    },
+    {
+      "name": "vivaldi-get-started",
+      "thumbnail": "/resources/sd_help.png",
+      "guid": "0abc2e81-fc07-42e5-b4e2-2dd4ce02f92b",
+      "guid2": "2cc583b1-1791-41db-a675-38fd65b9f0c6"
+    },
+    {
+      "name": "vivaldi-help",
+      "thumbnail": "/resources/sd_help.png",
+      "guid": "cd492aa9-9951-45a1-b104-9583ae0c28c1",
+      "guid2": "37166148-e194-4693-98ca-590c102ab5a5"
+    },
+    {
+      "name": "vivaldi-webmail",
+      "thumbnail": "/resources/sd_webmail.png",
+      "guid": "a4715241-d0fd-4d0f-b2ca-6e4267d644b3",
+      "guid2": "eb5c2f32-c648-4f69-a875-472da896d50b"
+    },
+    {
+      "name": "vivaldigame",
+      "thumbnail": "/resources/sd_vivaldi_game.png",
+      "guid": "10415f5d-2e0c-4f08-8e49-23fcd2de0943",
+      "guid2": "01d6f4e4-a695-4450-a65d-f69366027dae"
+    },
+    {
+      "name": "vk.com",
+      "thumbnail": "/resources/sd_vk.png",
+      "guid": "55931a41-6333-42f9-bd1c-0747eeceb0f3",
+      "guid2": "9420c6e4-710c-4253-b83f-551f166bb5e2"
+    },
+    {
+      "name": "walmart",
+      "thumbnail": "/resources/sd_walmart.png",
+      "guid": "6f7e802b-87ed-454d-ae23-95407a64de52",
+      "guid2": "7c8f3ab2-7248-404d-b2f7-9c3917e7ae94"
+    },
+    {
+      "name": "whereby",
+      "thumbnail": "/resources/sd_whereby.png",
+      "guid": "ea7ed283-6b40-4864-8fd7-36e20f0e5adf",
+      "guid2": "02044636-0f49-4863-980e-f6976b121679"
+    },
+    {
+      "name": "yahoo-shopping",
+      "thumbnail": "/resources/sd_jp_yahooshopping.png",
+      "guid": "844056e5-34ee-43f1-9228-3c41a46c6e71",
+      "guid2": "84dcbf10-c1b4-4de0-9101-0204a505bcda"
+    },
+    {
+      "name": "yandex",
+      "thumbnail": "/resources/sd_ru_yandex.png",
+      "guid": "2016b066-cae6-4d96-a9ae-0f95258f2000",
+      "guid2": "7bf43525-ade8-4c8e-aa64-6012c3b75926"
+    },
+    {
+      "name": "yandex-market",
+      "thumbnail": "/resources/sd_yandex_market.png",
+      "guid": "8fb85201-e32c-47c2-825b-c14844ef7f5f",
+      "guid2": "573f8ebb-2bbe-4435-9c74-23c4b57d5488"
+    },
+    {
+      "name": "youtube",
+      "thumbnail": "/resources/sd_youtube.png",
+      "guid": "a4d0c752-2bf7-470d-85cd-8b2ddd1ec82b",
+      "guid2": "3379a33a-3e2e-41d8-9789-86d47291e4b9"
+    },
+    {
+      "name": "zalora",
+      "thumbnail": "/resources/sd_tw_zalora.png",
+      "guid": "f4cf7a04-0aec-4c87-b2f3-7dddf0fcde3f",
+      "guid2": "b2ae863d-6ea4-46ac-a6b4-e7747f24c671"
+    }
+  ]
+}

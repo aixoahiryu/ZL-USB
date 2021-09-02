@@ -1,0 +1,125 @@
+{
+  "version": "18",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-de",
+          "title": "Booking.com",
+          "description": "travel"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "lidl",
+          "url": "https://vivaldi.com/bk/lidl-de",
+          "title": "LIDL",
+          "description": ""
+        },
+        {
+          "name": "bild.de",
+          "url": "https://www.bild.de/",
+          "title": "Bild",
+          "description": ""
+        },
+        {
+          "name": "idealo",
+          "url": "https://vivaldi.com/bk/idealo-de",
+          "title": "IDEALO",
+          "description": ""
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-de",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "disney",
+          "url": "https://vivaldi.com/bk/disney-de",
+          "title": "Disney+"
+        },
+        {
+          "name": "startpage",
+          "url": "https://vivaldi.com/bk/sd-startpage-de-de",
+          "title": "Startpage",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-de",
+              "title": "Vivaldi-Funktionen",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-de",
+              "title": "Vivaldi Community",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-de-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-de",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-de-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-de-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "idealo",
+          "url": "https://vivaldi.com/bk/idealo-de-bk",
+          "title": "IDEALO"
+        },
+        {
+          "name": "otto",
+          "url": "https://vivaldi.com/bk/otto-de-bk",
+          "title": "OTTO.de"
+        }
+      ]
+    }
+  ]
+}

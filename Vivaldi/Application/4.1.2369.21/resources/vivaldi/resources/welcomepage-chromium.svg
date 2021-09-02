@@ -1,0 +1,89 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 190 190">
+  <defs>
+    <clipPath id="a">
+      <circle cx="95" cy="95" r="88" fill="none"/>
+    </clipPath>
+    <clipPath id="b">
+      <path fill="none" d="M7 183h83.8l39-39v-29H60.2L7 23.5V183z"/>
+    </clipPath>
+    <linearGradient id="c" x1="121" x2="135.7" y1="1840.8" y2="1905.1" gradientTransform="translate(0 -1792)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#ea6100" stop-opacity=".3"/>
+      <stop offset=".7" stop-color="#ea6100" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="d">
+      <path fill="none" d="M95 55l34.6 60L91 183h92V55H95z"/>
+    </clipPath>
+    <linearGradient id="e" x1="28.3" x2="80.8" y1="1866" y2="1835.4" gradientTransform="translate(0 -1792)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#a52714" stop-opacity=".6"/>
+      <stop offset=".7" stop-color="#a52714" stop-opacity="0"/>
+    </linearGradient>
+    <clipPath id="f">
+      <path fill="none" d="M21 7v40.3L60.4 115 95 55h88V7H21z"/>
+    </clipPath>
+    <linearGradient id="g" x1="109.9" x2="51.5" y1="1955.5" y2="1921.3" gradientTransform="translate(0 -1792)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#055524" stop-opacity=".4"/>
+      <stop offset=".3" stop-color="#055524" stop-opacity="0"/>
+    </linearGradient>
+    <radialGradient id="h" cx="596.9" cy="1839.5" r="78" gradientTransform="translate(-576 -1792)" gradientUnits="userSpaceOnUse">
+      <stop offset="0" stop-color="#3e2723" stop-opacity=".2"/>
+      <stop offset="1" stop-color="#3e2723" stop-opacity="0"/>
+    </radialGradient>
+  </defs>
+  <g clip-path="url(#a)">
+    <path fill="#4373d9" d="M21 7v108h39.4L95 55h88V7z"/>
+  </g>
+  <g clip-path="url(#a)">
+    <path fill="#3d61c3" d="M61.3 114.7L21.5 46.4l-.6 1 39 67.8z"/>
+  </g>
+  <g clip-path="url(#a)">
+    <path fill="#659bf6" d="M7 183h83.8l39-39v-29H60.2L7 23.5z"/>
+  </g>
+  <g clip-path="url(#a)">
+    <path fill="#3d61c3" d="M128.8 116.3l-.8-.4-36.2 63.3-1 3.8 38.2-67.1z"/>
+  </g>
+  <g clip-path="url(#a)">
+    <g clip-path="url(#b)">
+      <path fill="#ffcd40" d="M95 55l34.6 60L91 183h92V55z"/>
+      <path fill="url(#c)" d="M95 55l34.6 60L91 183h92V55z"/>
+    </g>
+    <g clip-path="url(#a)">
+      <path fill="#a2c3fa" d="M95 55l34.6 60L91 183h92V55z"/>
+    </g>
+    <g clip-path="url(#a)">
+      <g clip-path="url(#d)">
+        <path fill="#db4437" d="M21 7v108h39.4L95 55h88V7z"/>
+        <path fill="url(#e)" d="M21 7v108h39.4L95 55h88V7z"/>
+      </g>
+      <g clip-path="url(#a)">
+        <path fill="#7e96d6" d="M95 55v21l78.4-21z" opacity=".7" style="isolation:isolate"/>
+      </g>
+      <g clip-path="url(#a)">
+        <g clip-path="url(#f)">
+          <path fill="#0f9d58" d="M7 183h83.8l39-39v-29H60.2L7 23.5z"/>
+          <path fill="url(#g)" d="M7 183h83.8l39-39v-29H60.2L7 23.5z"/>
+        </g>
+        <g clip-path="url(#a)">
+          <path fill="url(#h)" d="M21 47.5l57.2 57.2L60.4 115z" opacity=".6" style="isolation:isolate"/>
+        </g>
+        <g clip-path="url(#a)">
+          <path fill="#5b8ee9" d="M90.8 183l21-78.3 17.8 10.3z" opacity=".8" style="isolation:isolate"/>
+        </g>
+        <g clip-path="url(#a)">
+          <circle cx="95" cy="95" r="40" fill="#f1f1f1"/>
+          <circle cx="95" cy="95" r="32" fill="#4a8af4"/>
+        </g>
+        <g clip-path="url(#a)">
+          <path fill="#3362cd" d="M95 54a40.1 40.1 0 0 0-40 40v1a40.1 40.1 0 0 1 40-40h88v-1z"/>
+          <path fill="#fff" fill-opacity=".1" d="M129.6 115a40 40 0 0 1-69.2 0L7 23.5v1L60.4 116a40 40 0 0 0 69.2 0z"/>
+          <path fill="#fff" fill-opacity=".2" d="M96 55h-.5a40 40 0 0 1 0 80h.5a40 40 0 0 0 0-80z"/>
+          <path fill="#fff" fill-opacity=".2" d="M130 116.3a39.3 39.3 0 0 0 5.4-20 37.8 37.8 0 0 0-2-12A38 38 0 0 1 135 95a40.2 40.2 0 0 1-5.4 20L91 183h1l38.2-66.5z"/>
+        </g>
+        <g fill-opacity=".2" clip-path="url(#a)">
+          <path fill="#fff" d="M95 8a88 88 0 0 1 88 87.5V95A88 88 0 0 0 7 95v.5A88 88 0 0 1 95 8z"/>
+          <path fill="#3e2723" d="M95 182a88 88 0 0 0 88-87.5v.5A88 88 0 0 1 7 95v-.5A88 88 0 0 0 95 182z"/>
+        </g>
+        <path fill="none" d="M-1-1h192v192H-1z"/>
+      </g>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,10 @@
+html {
+  color: #ffffff;
+  background: #000000;
+  filter: invert(100%) !important;
+}
+
+/* Inverting images or video does not do any good */
+img, video {
+  filter: invert(100%) !important;
+}

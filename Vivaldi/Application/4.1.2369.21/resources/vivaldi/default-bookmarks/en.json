@@ -1,0 +1,108 @@
+{
+  "version": "2",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-en-us",
+          "title": "Booking.com",
+          "description": "hotels, booking, apartments"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": "video"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon",
+          "title": "Amazon",
+          "description": "shopping, electronics"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-en-us",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-us",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community",
+              "title": "Vivaldi Community",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-help",
+              "url": "https://vivaldi.com/bk/sd-vivaldi-help-en",
+              "title": "Vivaldi Help"
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-us-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-us-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-us-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-us-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "expedia",
+          "url": "https://vivaldi.com/bk/expedia",
+          "title": "Expedia"
+        }
+      ]
+    }
+  ]
+}

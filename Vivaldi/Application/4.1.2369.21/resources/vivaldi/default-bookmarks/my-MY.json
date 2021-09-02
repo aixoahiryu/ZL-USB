@@ -1,0 +1,103 @@
+{
+  "version": "6",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-my",
+          "title": "Booking.com",
+          "description": "travel, airfare"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "malaysiakini.com",
+          "url": "https://www.malaysiakini.com/",
+          "title": "MalaysiaKini.com",
+          "description": ""
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-my",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-my",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community",
+              "title": "Vivaldi Community",
+              "description": "technology, social"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-my-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-my-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-my-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-my-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-my-bk",
+          "title": "Agoda"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,133 @@
+{
+  "version": "20",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "rakuten",
+          "url": "https://vivaldi.com/bk/rakuten",
+          "title": "楽天市場",
+          "description": "ショッピング, 通販"
+        },
+        {
+          "name": "yahoo-shopping",
+          "url": "https://vivaldi.com/bk/yahoo-shopping",
+          "title": "Yahoo! Shopping",
+          "description": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-jp",
+          "title": "Amazon",
+          "description": "shopping, electronics"
+        },
+        {
+          "name": "nhk.or.jp",
+          "url": "https://www.nhk.or.jp/",
+          "title": "NHKオンライン",
+          "description": ""
+        },
+        {
+          "name": "recochoku",
+          "url": "https://vivaldi.com/bk/recochoku",
+          "title": "レコチョク",
+          "description": "音楽,ダウンロード,ランキング,歌詞"
+        },
+        {
+          "name": "u-next",
+          "url": "https://vivaldi.com/bk/u-next",
+          "title": "U-NEXT",
+          "description": "映画,ドラマ,アニメ,レンタル"
+        },
+        {
+          "name": "expedia-jp",
+          "url": "https://vivaldi.com/bk/expedia-jp",
+          "title": "エクスペディア (Expedia)",
+          "description": "チケット, 航空券, 旅行, ホテル, 予約"
+        },
+        {
+          "name": "7net-jp",
+          "url": "https://vivaldi.com/bk/7net-jp",
+          "title": "セブンネットショッピング",
+          "description": ""
+        },
+        {
+          "name": "hulu-jp",
+          "url": "https://vivaldi.com/bk/hulu-jp",
+          "title": "Hulu",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-ja",
+              "title": "Vivaldiの機能",
+              "description": "ブラウザ,機能,使い方"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-ja",
+              "title": "Vivaldi日本語公式ブログ",
+              "description": "ブログ"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldiウェブメール",
+              "description": "メール,Webmail"
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-ja-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-ja-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-ja-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-ja-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-ja-bk",
+          "title": "Agoda"
+        }
+      ]
+    }
+  ]
+}

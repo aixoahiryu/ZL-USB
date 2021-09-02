@@ -1,0 +1,16 @@
+html {
+  -webkit-perspective: 800 !important;
+}
+
+body {
+  transition: transform 5s !important;
+  transform-origin: 50% 0 !important;
+  transform-style: preserve-3d !important;
+  transform: none !important;
+}
+
+html:hover body {
+  transform: rotateZ(0deg) rotateX(1deg) rotateY(-6deg) !important;
+  transition-duration: 1s !important;
+}
+

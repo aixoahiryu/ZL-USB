@@ -1,0 +1,102 @@
+{
+  "version": "15",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "finn.no",
+          "url": "https://vivaldi.com/bk/finn-no-sd",
+          "title": "FINN.no",
+          "description": "shopping, lifestyle"
+        },
+        {
+          "name": "vg.no",
+          "url": "https://www.vg.no/",
+          "title": "Forsiden - VG",
+          "description": "news"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "cdon.no",
+          "url": "https://vivaldi.com/bk/cdon-no",
+          "title": "CDON.COM"
+        },
+        {
+          "name": "startpage",
+          "url": "https://vivaldi.com/bk/sd-startpage-nb-no",
+          "title": "Startpage",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-nb",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-nb",
+              "title": "Vivaldi Nettsamfunn",
+              "description": "technology, social"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-nb-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-nb-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-nb-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-nb-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "cdon.no",
+          "url": "https://vivaldi.com/bk/cdon-no-bk",
+          "title": "CDON.COM"
+        }
+      ]
+    }
+  ]
+}

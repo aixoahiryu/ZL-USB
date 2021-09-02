@@ -1,0 +1,9 @@
+html {
+  filter: blur(20px) !important;
+  transition: filter 10s !important;
+}
+
+html:hover {
+  filter: blur(0) !important;
+  transition: filter 0.5s !important;
+}

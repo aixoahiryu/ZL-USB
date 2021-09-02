@@ -1,0 +1,108 @@
+{
+  "version": "16",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "allegro",
+          "url": "https://vivaldi.com/bk/allegro-pl",
+          "title": "Allegro",
+          "description": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-pl",
+          "title": "Booking.com",
+          "description": "travel, airfare"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-pl",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpresscom-pl",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "startme-pl",
+          "url": "https://vivaldi.com/bk/sd-startme-pl",
+          "title": "Start.me"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-pl",
+              "title": "Możliwości Vivaldi",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-pl",
+              "title": "Vivaldi Community",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-pl-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-pl-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-pl-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-pl-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "allegro",
+          "url": "https://vivaldi.com/bk/allegro-pl-bk",
+          "title": "Allegro"
+        }
+      ]
+    }
+  ]
+}

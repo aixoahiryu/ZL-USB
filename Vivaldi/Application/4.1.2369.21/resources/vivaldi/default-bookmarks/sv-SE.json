@@ -1,0 +1,104 @@
+{
+  "version": "15",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "blocket.se",
+          "url": "https://www.blocket.se/",
+          "title": "Blocket",
+          "description": ""
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "dn.se",
+          "url": "https://www.dn.se/",
+          "title": "Dagens Nyheter",
+          "description": ""
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-se",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-sv",
+          "title": "Booking.com",
+          "description": ""
+        },
+        {
+          "name": "startpage",
+          "url": "https://vivaldi.com/bk/sd-startpage-sv-se",
+          "title": "Startpage",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-sv",
+              "title": "Funktioner i Vivaldi",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-sv",
+              "title": "Vivaldi Community",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-sv-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-sv-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-sv-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-sv-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

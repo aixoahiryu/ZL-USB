@@ -1,0 +1,126 @@
+{
+  "version": "17",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/bookingcom-en-gb",
+          "title": "Booking.com",
+          "description": "travel, airfare"
+        },
+        {
+          "name": "theguardian",
+          "url": "https://www.theguardian.com/",
+          "title": "The Guardian",
+          "description": ""
+        },
+        {
+          "name": "morrisons",
+          "url": "https://vivaldi.com/bk/morrisons-gb",
+          "title": "Morrisons",
+          "description": ""
+        },
+        {
+          "name": "hotelscom",
+          "url": "https://vivaldi.com/bk/hotelscom-en-gb",
+          "title": "Hotels.com",
+          "description": "travelling"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-en-gb",
+          "title": "eBay",
+          "description": "shopping"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-en-gb",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "disney",
+          "url": "https://vivaldi.com/bk/disney-en-gb",
+          "title": "Disney+"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "startpage",
+          "url": "https://vivaldi.com/bk/sd-startpage-en-gb",
+          "title": "Startpage",
+          "description": ""
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features-en-gb",
+              "title": "Vivaldi Features",
+              "description": "vivaldi"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community-en-gb",
+              "title": "Vivaldi Community",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            },
+            {
+              "name": "vivaldi-get-started",
+              "url": "https://vivaldi.com/bk/sd-get-started-en-gb",
+              "title": "Get Started"
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-gb-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-gb-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-gb-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-gb-bk",
+          "title": "eBay"
+        }
+      ]
+    }
+  ]
+}

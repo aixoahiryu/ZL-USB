@@ -1,0 +1,97 @@
+{
+  "version": "6",
+  "children": [
+    {
+      "name": "SpeedDial",
+      "children": [
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-id",
+          "title": "Agoda.com",
+          "description": "travel, airfare, hotels"
+        },
+        {
+          "name": "youtube",
+          "url": "https://www.youtube.com/",
+          "title": "YouTube",
+          "description": ""
+        },
+        {
+          "name": "detik.com",
+          "url": "https://detik.com/",
+          "title": "Detik.com",
+          "description": ""
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/aliexpress-id",
+          "title": "AliExpress",
+          "description": "shopping"
+        },
+        {
+          "name": "accuweather",
+          "url": "https://vivaldi.com/bk/sd-accuweather",
+          "title": "AccuWeather"
+        },
+        {
+          "name": "Vivaldi",
+          "children": [
+            {
+              "name": "vivaldi-features",
+              "url": "https://vivaldi.com/bk/sd-browser-features",
+              "title": "Vivaldi Features",
+              "description": "technology"
+            },
+            {
+              "name": "vivaldi-community",
+              "url": "https://vivaldi.com/bk/sd-community",
+              "title": "Vivaldi Community",
+              "description": "technology, social"
+            },
+            {
+              "name": "vivaldi-webmail",
+              "url": "https://vivaldi.com/bk/sd-webmail",
+              "title": "Vivaldi Webmail",
+              "description": ""
+            }
+          ]
+        },
+        {
+          "name": "vivaldigame",
+          "url": "vivaldi://game/",
+          "title": "Vivaldi Game"
+        }
+      ]
+    },
+    {
+      "name": "Bookmarks",
+      "children": [
+        {
+          "name": "booking.com",
+          "url": "https://vivaldi.com/bk/booking-id-bk",
+          "title": "Booking.com"
+        },
+        {
+          "name": "aliexpress",
+          "url": "https://vivaldi.com/bk/ali-id-bk",
+          "title": "AliExpress"
+        },
+        {
+          "name": "amazon",
+          "url": "https://vivaldi.com/bk/amazon-id-bk",
+          "title": "Amazon"
+        },
+        {
+          "name": "ebay",
+          "url": "https://vivaldi.com/bk/ebay-id-bk",
+          "title": "eBay"
+        },
+        {
+          "name": "agoda",
+          "url": "https://vivaldi.com/bk/agoda-in-bk",
+          "title": "Agoda"
+        }
+      ]
+    }
+  ]
+}
